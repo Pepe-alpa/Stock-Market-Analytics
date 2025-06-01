@@ -1,0 +1,1 @@
+This is my repo for Stock Market Analytics from Python[Invest] and DataTalksClub
